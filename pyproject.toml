@@ -57,10 +57,10 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/VeraLynnDeGraw/CODERWEAVER2"
-Repository = "https://github.com/VeraLynnDeGraw/CODERWEAVER2"
-Issues = "https://github.com/VeraLynnDeGraw/CODERWEAVER2/issues"
-Documentation = "https://github.com/VeraLynnDeGraw/CODERWEAVER2#readme"
+Homepage = "https://github.com/VeraLynnDeGraw/CODEWEAVER2"
+Repository = "https://github.com/VeraLynnDeGraw/CODEWEAVER2"
+Issues = "https://github.com/VeraLynnDeGraw/CODEWEAVER2/issues"
+Documentation = "https://github.com/VeraLynnDeGraw/CODEWEAVER2#readme"
 
 [project.scripts]
 codeweaver = "codeweaver2.cli:cli"

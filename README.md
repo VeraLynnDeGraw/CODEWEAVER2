@@ -27,8 +27,8 @@ It answers the four most important questions about any codebase:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/VeraLynnDeGraw/CODERWEAVER2.git
-cd CODERWEAVER2
+git clone https://github.com/VeraLynnDeGraw/CODEWEAVER2.git
+cd CODEWEAVER2
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
@@ -87,7 +87,7 @@ codeweaver cursor prop-001
 ## 📂 Project Structure
 
 ```text
-CODERWEAVER2/
+CODEWEAVER2/
 ├── src/codeweaver2/
 │   ├── __init__.py          # Package initialization
 │   ├── cli.py               # Main Click entry point & interactive menu
