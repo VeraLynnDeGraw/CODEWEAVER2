@@ -57,11 +57,11 @@ We are committed to providing a welcoming and inclusive experience for everyone.
 
 ```bash
 # 1. Fork the repository on GitHub
-#    Click the "Fork" button at: https://github.com/VeraLynnDeGraw/CODERWEAVER2
+#    Click the "Fork" button at: https://github.com/VeraLynnDeGraw/CODEWEAVER2
 
 # 2. Clone your fork
-git clone https://github.com/YOUR-USERNAME/CODERWEAVER2.git
-cd CODERWEAVER2
+git clone https://github.com/YOUR-USERNAME/CODEWEAVER2.git
+cd CODEWEAVER2
 
 # 3. Create a virtual environment
 python3 -m venv .venv
@@ -107,7 +107,7 @@ pip install -e ".[dev]"
 ## 📂 Project Structure
 
 ```
-CODERWEAVER2/
+CODEWEAVER2/
 ├── src/codeweaver2/
 │   ├── __init__.py          # Package init & version
 │   ├── cli.py               # Click CLI & interactive menu
@@ -146,7 +146,7 @@ CODERWEAVER2/
 
 ### 1. Find Something to Work On
 
-- Check the [Issues](https://github.com/VeraLynnDeGraw/CODERWEAVER2/issues) page for open bugs and feature requests
+- Check the [Issues](https://github.com/VeraLynnDeGraw/CODEWEAVER2/issues) page for open bugs and feature requests
 - Look for issues labeled `good first issue` if you're new
 - Feel free to open a new issue if you have an idea
 
@@ -467,11 +467,11 @@ We are committed to providing a welcoming and inclusive experience for everyone.
 
 ```bash
 # 1. Fork the repository on GitHub
-#    Click the "Fork" button at: https://github.com/VeraLynnDeGraw/CODERWEAVER2
+#    Click the "Fork" button at: https://github.com/VeraLynnDeGraw/CODEWEAVER2
 
 # 2. Clone your fork
-git clone https://github.com/YOUR-USERNAME/CODERWEAVER2.git
-cd CODERWEAVER2
+git clone https://github.com/YOUR-USERNAME/CODEWEAVER2.git
+cd CODEWEAVER2
 
 # 3. Create a virtual environment
 python3 -m venv .venv
@@ -517,7 +517,7 @@ pip install -e ".[dev]"
 ## 📂 Project Structure
 
 ```
-CODERWEAVER2/
+CODEWEAVER2/
 ├── src/codeweaver2/
 │   ├── __init__.py          # Package init & version
 │   ├── cli.py               # Click CLI & interactive menu
@@ -556,7 +556,7 @@ CODERWEAVER2/
 
 ### 1. Find Something to Work On
 
-- Check the [Issues](https://github.com/VeraLynnDeGraw/CODERWEAVER2/issues) page for open bugs and feature requests
+- Check the [Issues](https://github.com/VeraLynnDeGraw/CODEWEAVER2/issues) page for open bugs and feature requests
 - Look for issues labeled `good first issue` if you're new
 - Feel free to open a new issue if you have an idea
 
